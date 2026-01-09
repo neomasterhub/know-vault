@@ -5,5 +5,13 @@
 1. [VS Enterprise][vs_enterprise]
 1. [VS Themes][vs_themes]
 
-[vs_enterprise]: https://visualstudio.microsoft.com/ru/vs/enterprise/
+[vs_enterprise]: https://visualstudio.microsoft.com/ru/vs/enterprise
 [vs_themes]: https://marketplace.visualstudio.com/search?term=theme&target=VS
+
+## Graphics
+
+### OpenGL
+
+1. [Learn OpenGL][learn-open-gl]
+
+[learn-open-gl]: https://learnopengl.com
